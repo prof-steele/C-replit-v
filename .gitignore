@@ -1,3 +1,10 @@
+#
+# project-specific ignores
+#
+main
+#
+# derived from github default for C code
+#
 # Prerequisites
 *.d
 
